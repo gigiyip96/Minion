@@ -1,0 +1,25 @@
+{
+  "request": {
+    "method": "POST",
+    "headers": {
+      "Authorization": "Bearer TEST_API_KEY:6b5d1d7dfc3d044bed914e8ee4c57dc4:2aa4d699ae8dbf0b4b81489f2381c3f9",
+      "Content-Type": "application/json"
+    },
+    "body": {
+      "entitySecretCipherText": "Sf9m5c4BYbtccLeSEVopzdW5v5E2GsrnD04Y8VVUOY308VqgOCmf5DukfUEKGnZj65GAt11y0Yrw49vj9fPppd4ZHz48OZx88SMWbwKrO6dJ7DM+EQckP2J+IsoQ6J66RybpWUntci01B3emlGCcLKUhJgm5087FqwFRzysc4mVPRPsHHL+IKlgX+PXeB1wBSIgIzZyX9vYaCjomt8EWgA85f1FYx6GVDZp7ixVWmmC68CZlS3FKqgEbguKZn8ahJ+IvKeKX8RAZrRthSHeUq4SLFjYsXG0dOHslYYskfjSvkDpN7sCfqjDzOmg7/ePU7rxoDqEBvWLzBKLTegoNDK8NYf4zUYiasWY9PquhYKHObc51SDdnsAW0v2jHs6QbRbWdWja7qQLbSbf39RDzBbAt1e8Yk/4gtrFhvSHTyRYZgzKJgKoHXkLkKh24mesfTG1TTMTwMYXLNmtDZe/8zEKRN7Uo/APRbXOAtOjW+otlzF8tG91/yLN4vmH6xc+gJP/hBnLZzdYuqf9/xxIo6vwmgJIkDy2OfYQPHZD16FKcel3tOFPKm25oWxzZdGKF5w+lHi0QyCaeTXa3w87d1hShNj4aOT9ePLux+niQJN7IywdTU954JXHK0vLXNmC0AZBJ8jPhm/+vn4iZDUWi96W48WKMvuwdnczbisZqgg4=",
+      "idempotencyKey": "a7925c2e-7fca-413f-ab9a-7f4d96dcaee5",
+      "name": "error404_wallet"
+    }
+  },
+  "response": {
+    "data": {
+      "walletSet": {
+        "id": "e86f76c2-f430-5658-b693-52b1cff2f60c",
+        "custodyType": "DEVELOPER",
+        "name": "error404_wallet",
+        "updateDate": "2024-09-21T06:14:40Z",
+        "createDate": "2024-09-21T06:14:40Z"
+      }
+    }
+  }
+}
